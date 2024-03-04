@@ -28,6 +28,8 @@ Hi there 😎 [<img src="https://img.shields.io/badge/Velog-%20C997.svg?style=lo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100JM&layout=compact&theme=default)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F100JM&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **100JM/100JM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
