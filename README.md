@@ -21,8 +21,16 @@ Hi there 😎 [<img src="https://img.shields.io/badge/Velog-%20C997.svg?style=lo
  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=logo&logo=spring&logoColor=white" />
  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=logo&logo=postgresql&logoColor=white" />
 </p>
+<h2></h2>
+<br/>
 
-🔭 I’m currently working on ...
+💾 My repositories for study ...      
+[[TIL][Today i learned]](https://github.com/100JM/TIL)   
+[[React][기본&핵심 개념(component, JSX, props, state)]](https://github.com/100JM/react-study-project)
+<h2></h2>
+<br/>
+
+🔭 I’m currently working on ...      
 
 ![100JM's GitHub stats](https://github-readme-stats.vercel.app/api?username=100JM&hide=stars,contribs&count_private=true&show_icons=true)   
 
