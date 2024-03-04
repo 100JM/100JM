@@ -1,7 +1,8 @@
 Hi there 😎
 ---
-<p style="text-align:center;">🌱 I’m currently learning ...</p>   
+ 🌱 I’m currently learning ... 
 
+   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=logo&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=logo&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=logo&logo=react&logoColor=%2361DAFB)
