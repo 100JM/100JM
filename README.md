@@ -1,4 +1,4 @@
-🌱 I’m currently learning ...   
+<center>🌱 I’m currently learning ...<center>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=logo&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=logo&logo=jquery&logoColor=white)
