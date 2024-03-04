@@ -1,21 +1,28 @@
 Hi there 😎
 ---
- 🌱 I’m currently learning ... 
+<p align="center">🌱 I’m currently learning ...</p>
 
-   
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=logo&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=logo&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=logo&logo=react&logoColor=%2361DAFB)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=logo&logo=reacthookform&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=logo&logo=next.js&logoColor=white)
+<p align="center">
+ <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=logo&logo=javascript&logoColor=%23F7DF1E" />
+ <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=logo&logo=jquery&logoColor=white" />
+ <img src="https://img.shields.io/badge/react-%2320232a.svg?style=logo&logo=react&logoColor=%2361DAFB" />
+ <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=logo&logo=reacthookform&logoColor=white" />
+ <img src="https://img.shields.io/badge/Next-black?style=logo&logo=next.js&logoColor=white" />
+</p>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=logo&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=logo&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=logo&logo=tailwind-css&logoColor=white)
+<p align="center">
+ <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=logo&logo=html5&logoColor=white" />
+ <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=logo&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=logo&logo=tailwind-css&logoColor=white" />
+</p>
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=logo&logo=postgresql&logoColor=white)   
+<p align="center">
+ <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=logo&logo=openjdk&logoColor=white" />
+ <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=logo&logo=spring&logoColor=white" />
+ <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=logo&logo=postgresql&logoColor=white" />
+</p>
 
-🔭 I’m currently working on ...   
+🔭 I’m currently working on ...
 
 ![100JM's GitHub stats](https://github-readme-stats.vercel.app/api?username=100JM&hide=stars,contribs&count_private=true&show_icons=true)   
 
