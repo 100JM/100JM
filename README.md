@@ -4,6 +4,7 @@ Hi there 😎 [<img src="https://img.shields.io/badge/Velog-%20C997.svg?style=lo
 
 <p align="center">
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=logo&logo=javascript&logoColor=%23F7DF1E" />
+ <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=logo&logo=typescript&logoColor=white" />
  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=logo&logo=jquery&logoColor=white" />
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=logo&logo=react&logoColor=%2361DAFB" />
  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=logo&logo=reacthookform&logoColor=white" />
