@@ -36,7 +36,7 @@ Hi there 😎 [<img src="https://img.shields.io/badge/Velog-%20C997.svg?style=lo
 <br/>
 
 💻 My toy project ...   
-[[To do list][일정 관리 캘린더(with React & TypeScript)]](https://github.com/100JM/to-do-calendar)
+[[To do list][일정 관리 캘린더(with Next.js & TypeScript)]](https://github.com/100JM/to-do-calendar)
 <h2></h2>
 <br/>
 
