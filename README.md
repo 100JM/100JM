@@ -10,6 +10,7 @@ Hi there 😎 [<img src="https://img.shields.io/badge/Velog-%20C997.svg?style=lo
 <!--  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=logo&logo=reacthookform&logoColor=white" />
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=logoe&logo=styled-components&logoColor=white" /> -->
  <img src="https://img.shields.io/badge/Next-black?style=logo&logo=next.js&logoColor=white" />
+ <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=logo&logo=redux&logoColor=white" />
 </p>
 
 <p align="center">
