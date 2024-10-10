@@ -7,8 +7,8 @@ Hi there 😎 [<img src="https://img.shields.io/badge/Velog-%20C997.svg?style=lo
  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=logo&logo=typescript&logoColor=white" />
  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=logo&logo=jquery&logoColor=white" />
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=logo&logo=react&logoColor=%2361DAFB" />
- <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=logo&logo=reacthookform&logoColor=white" />
- <img src="https://img.shields.io/badge/styled--components-DB7093?style=logoe&logo=styled-components&logoColor=white" />
+<!--  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=logo&logo=reacthookform&logoColor=white" />
+ <img src="https://img.shields.io/badge/styled--components-DB7093?style=logoe&logo=styled-components&logoColor=white" /> -->
  <img src="https://img.shields.io/badge/Next-black?style=logo&logo=next.js&logoColor=white" />
 </p>
 
