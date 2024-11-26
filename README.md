@@ -40,6 +40,11 @@ Hi there 😎 [<img src="https://img.shields.io/badge/Velog-%20C997.svg?style=lo
 <h2></h2>
 <br/>
 
+🅱️ My study blog ...   
+[[100log💯][Next.js로 만든 개발 블로그]](https://100-log.vercel.app/)
+<h2></h2>
+<br/>
+
 🔭 I’m currently working on ...      
 
 ![100JM's GitHub stats](https://github-readme-stats.vercel.app/api?username=100JM&hide=stars,contribs&count_private=true&show_icons=true)   
