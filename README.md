@@ -41,7 +41,7 @@ Hi there 😎 [<img src="https://img.shields.io/badge/Velog-%20C997.svg?style=lo
 <br/>
 
 🅱️ My study blog ...   
-[[100log💯][Next.js로 만든 개발 블로그]](https://100-log.vercel.app/)
+[[100log💯][Next.js로 만든 개발 블로그]](https://github.com/100JM/100log)
 <h2></h2>
 <br/>
 
