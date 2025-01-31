@@ -1,4 +1,4 @@
-Hi there 😎 [<img src="https://img.shields.io/badge/Velog-%20C997.svg?style=logo&logo=Velog&logoColor=white"/>](https://velog.io/@100-100/posts)
+Hi there 😎 [<img src="https://img.shields.io/badge/💯_개발_블로그-white"/>](https://velog.io/@100-100/posts)
 ---
 <p align="center">🌱 I’m currently learning ...</p>
 
