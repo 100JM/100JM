@@ -45,6 +45,12 @@ Hi there 😎 [<img src="https://img.shields.io/badge/💯_개발_블로그-whit
 <h2></h2>
 <br/>
 
+<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+
+[[@100jm/image-resizer][취미로 배포한 npm 이미지 리사이징 라이브러리]](https://github.com/100JM/image-resizer)
+<h2></h2>
+<br/>
+
 🔭 I’m currently working on ...      
 
 ![100JM's GitHub stats](https://github-readme-stats.vercel.app/api?username=100JM&hide=stars,contribs&count_private=true&show_icons=true)   
