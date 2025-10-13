@@ -27,21 +27,13 @@ Hi there 😎 [<img src="https://img.shields.io/badge/💯_개발_블로그-whit
 <h2></h2>
 <br/>
 
-💾 My repositories for study ...      
-[[TIL][Today i learned]](https://github.com/100JM/TIL)   
-[[React][기본&핵심 개념(component, JSX, props, state)]](https://github.com/100JM/react-study-project)   
-[[React][컴포넌트 스타일(vanilla CSS & styled-components & tailwind CSS)]](https://github.com/100JM/react-styledcomponent-tailwind)   
-[[React][useRef & createPortal]](https://github.com/100JM/react-refs-portals)
+🅱️ My study blog ...   
+[[100log💯][Next.js로 만든 개발 블로그]](https://github.com/100JM/100log)
 <h2></h2>
 <br/>
 
 💻 My toy project ...   
 [[TO-DO CALENDAR🗓️][일정 관리 캘린더(with Next.js & TypeScript)]](https://github.com/100JM/to-do-calendar)
-<h2></h2>
-<br/>
-
-🅱️ My study blog ...   
-[[100log💯][Next.js로 만든 개발 블로그]](https://github.com/100JM/100log)
 <h2></h2>
 <br/>
 
