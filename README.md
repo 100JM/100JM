@@ -41,24 +41,3 @@ Hi there 😎 [<img src="https://img.shields.io/badge/💯_개발_블로그-whit
 
 [[@100jm/image-resizer][취미로 배포한 npm 이미지 리사이징 라이브러리]](https://github.com/100JM/image-resizer)
 <h2></h2>
-<br/>
-
-🔭 I’m currently working on ...      
-
-![100JM's GitHub stats](https://github-readme-stats.vercel.app/api?username=100JM&hide=stars,contribs&count_private=true&show_icons=true)   
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100JM&layout=compact&theme=default)
-
-<p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F100JM&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Welcome&edge_flat=false"/></a></p>
-
-<!--
-**100JM/100JM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
